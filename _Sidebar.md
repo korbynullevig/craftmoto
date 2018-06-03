@@ -4,5 +4,5 @@
 
 **Getting Starded with Craftmoto**
 
-* [Page number ](https://github.com/Waterkan/Craftmoto-Wiki/wiki/Page-1)
+* [Page number one](https://github.com/Waterkan/Craftmoto-Wiki/wiki/Page-1)
 * [Page number two](https://github.com/Waterkan/Craftmoto-Wiki/wiki/Page-2)
