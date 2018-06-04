@@ -47,4 +47,3 @@ We will be covering these features from craftmoto in full detail:
 * Working with the API
 
 
-This wiki is a work in progress and it will take some time to complete this project!
