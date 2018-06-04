@@ -2,7 +2,7 @@
 
 ## Dear new user of Craftmoto, welcome to the unofficial Craftmoto wiki! 
 
-![]([sketchfab]1bcbe685e10e45748034411d9dd4b851[/sketchfab] [url=https://sketchfab.com/models/1bcbe685e10e45748034411d9dd4b851]Cubik Model[/url] by [url=https://sketchfab.com/Retronix]Retronix[/url] on [url=https://sketchfab.com]Sketchfab[/url])
+
 ![](https://proxy.spigotmc.org/fe4128e7faedc81676f16d6048b075b1270a40f1?url=https%3A%2F%2Fdl.dropbox.com%2Fs%2Fe2paep2o10wppri%2FHatchback.png)
 
 
