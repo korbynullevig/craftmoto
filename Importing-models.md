@@ -1,4 +1,4 @@
-Before we begin, we want to tell you that everything you do is at your own risk. **Any damages to your property is not our responsibility!**
+Before we begin, we want to tell you that everything you do is at your own risk. **Any damages you create to your own property is not our responsibility!**
 
 ## What you need
 * A texture file of your model
