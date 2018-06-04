@@ -9,23 +9,23 @@ This wiki should be able to set up your own vehicle and try to explain content r
 
 We will be covering these features from craftmoto in full detail:
 
-How to import models to make them visible inside Minecraft
-How to assign models as a Craftmoto vehicle
-How to set up a seat
-How to set up the permissions
-How to set up the surface the vehicle moves on
-The speed of the vehicle in general
-The acceleration of the vehicle
-Adjusting forms of friction a vehicle has to deal with
-Locking the angles the player can look at inside the vehicle.
-Adjust turning sensitivity
-Setting up fuel
-Editting the inventory
-Implementing crackshot weapons
-Health of the vehicle and the damage it takes
-Setting up locks
-Setting up addons
-Working with the API
-Using ingame commands
+*How to import models to make them visible inside Minecraft
+*How to assign models as a Craftmoto vehicle
+*How to set up a seat
+*How to set up the permissions
+*How to set up the surface the vehicle moves on
+*The speed of the vehicle in general
+*The acceleration of the vehicle
+*Adjusting forms of friction a vehicle has to deal with
+*Locking the angles the player can look at inside the vehicle.
+*Adjust turning sensitivity
+*Setting up fuel
+*Editting the inventory
+*Implementing crackshot weapons
+*Health of the vehicle and the damage it takes
+*Setting up locks
+*Setting up addons
+*Working with the API
+*Using ingame commands
 
 This wiki is a work in progress and it will take some time to complete this project!
