@@ -10,10 +10,15 @@ This wiki should be able to set up your own vehicle and try to explain content r
 We will be covering these features from craftmoto in full detail:
 
 *How to import models to make them visible inside Minecraft
+
 *How to assign models as a Craftmoto vehicle
+
 *How to set up a seat
+
 *How to set up the permissions
+
 *How to set up the surface the vehicle moves on
+
 *The speed of the vehicle in general
 *The acceleration of the vehicle
 *Adjusting forms of friction a vehicle has to deal with
